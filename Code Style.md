@@ -1,9 +1,15 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Code Style</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<h1 id="html">1. Html</h1>
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="html">1. Html</h1>
 <h2 id="кавычки-в-html">1.1 Кавычки в <code>html</code></h2>
 <p>В <code>html</code> всегда использовать двойные кавычки(<code>"</code>)</p>
 <p><strong>Мотивация:</strong> Код становиться более однородным и лучше воспринимаеться визуально.</p>
@@ -450,4 +456,7 @@
 <span class="token punctuation">}</span>
 
 </code></pre>
+</div>
+</body>
 
+</html>
